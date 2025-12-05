@@ -8,7 +8,7 @@ export default function Home() {
 
   const dishes = [
     { name: "Korean Bibimbap", price: "₹499", specialty: "Spicy rice bowl with veggies", img: "https://github.com/SuhasiniNanaware/Multi-Cusinie-Restro-Website/blob/main/public/images/bibimbap.jpeg?raw=true" },
-    { name: "Japanese Sushi Platter", price: "₹899", specialty: "Assorted veggie sushi rolls", img: "public/images/sushi.jpeg" },
+    { name: "Japanese Sushi Platter", price: "₹899", specialty: "Assorted veggie sushi rolls", img: "https://github.com/SuhasiniNanaware/Multi-Cusinie-Restro-Website/blob/main/public/images/sushi.jpeg?raw=true" },
     { name: "Italian Pasta", price: "₹599", specialty: "Creamy Alfredo with herbs", img: "public/images/italian-pasta.jpeg" },
     { name: "Indian Thali", price: "₹449", specialty: "Complete traditional meal", img: "public/images/indian-thali.jpeg" },
     { name: "Chinese Dumplings", price: "₹399", specialty: "Soft and juicy veggie dumplings", img: "public/images/dumplings.jpeg" },
