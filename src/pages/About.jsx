@@ -74,7 +74,7 @@ export default function About() {
             {
               name: "Chef Kenji Tanaka",
               role: "Japanese Cuisine Expert",
-              img: "public/images/Chef-KenjiTanaka.jpeg",
+              img: "https://github.com/SuhasiniNanaware/Multi-Cusinie-Restro-Website/blob/main/public/images/Chef-KenjiTanaka.jpeg?raw=true",
             },
           ].map((chef, index) => (
             <div className="col-md-4" key={index}>
