@@ -69,7 +69,7 @@ export default function About() {
             {
               name: "Chef Isabella Rossi",
               role: "Italian Cuisine Specialist",
-              img: "public/images/Chef-IsabellaRossi.jpeg",
+              img: "https://github.com/SuhasiniNanaware/Multi-Cusinie-Restro-Website/blob/main/public/images/Chef-IsabellaRossi.jpeg?raw=true",
             },
             {
               name: "Chef Kenji Tanaka",
