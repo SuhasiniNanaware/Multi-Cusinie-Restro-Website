@@ -17,7 +17,7 @@ export default function Home() {
 
   const specials = [
     { name: "Chef’s Signature Ramen", desc: "A comforting bowl with fresh veggies and spicy miso broth", img: "https://github.com/SuhasiniNanaware/Multi-Cusinie-Restro-Website/blob/main/public/images/Chef%E2%80%99s%20Signature%20Ramen.jpeg?raw=true" },
-    { name: "Paneer Steak Sizzler", desc: "Grilled paneer served on sizzling veggies & sauce", img: "public/images/Paneer Steak Sizzler.jpeg" },
+    { name: "Paneer Steak Sizzler", desc: "Grilled paneer served on sizzling veggies & sauce", img: "https://github.com/SuhasiniNanaware/Multi-Cusinie-Restro-Website/blob/main/public/images/Paneer%20Steak%20Sizzler.jpeg?raw=true"},
     { name: "Truffle Mushroom Risotto", desc: "Italian favorite with creamy truffle essence", img: "public/images/Truffle Mushroom Risotto.jpeg" },
   ];
 
