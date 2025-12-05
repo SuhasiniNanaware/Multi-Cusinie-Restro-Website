@@ -64,7 +64,7 @@ export default function About() {
             {
               name: "Chef Arjun Mehta",
               role: "Head Chef – Indian Cuisine",
-              img: "public/images/Chef-ArjunMehta.jpeg",
+              img: "https://github.com/SuhasiniNanaware/Multi-Cusinie-Restro-Website/blob/main/public/images/Chef-ArjunMehta.jpeg?raw=true",
             },
             {
               name: "Chef Isabella Rossi",
