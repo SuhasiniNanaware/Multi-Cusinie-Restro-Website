@@ -12,7 +12,7 @@ export default function Home() {
     { name: "Italian Pasta", price: "₹599", specialty: "Creamy Alfredo with herbs", img: "https://github.com/SuhasiniNanaware/Multi-Cusinie-Restro-Website/blob/main/public/images/italian-pasta.jpeg?raw=true"},
     { name: "Indian Thali", price: "₹449", specialty: "Complete traditional meal", img: "https://github.com/SuhasiniNanaware/Multi-Cusinie-Restro-Website/blob/main/public/images/indian-thali.jpeg?raw=true"},
     { name: "Chinese Dumplings", price: "₹399", specialty: "Soft and juicy veggie dumplings", img: "https://github.com/SuhasiniNanaware/Multi-Cusinie-Restro-Website/blob/main/public/images/dumplings.jpeg?raw=true" },
-    { name: "French Crepes", price: "₹349", specialty: "Light & sweet dessert crepes", img: "public/images/crepes.jpeg" },
+    { name: "French Crepes", price: "₹349", specialty: "Light & sweet dessert crepes", img: "https://github.com/SuhasiniNanaware/Multi-Cusinie-Restro-Website/blob/main/public/images/crepes.jpeg?raw=true" },
   ];
 
   const specials = [
