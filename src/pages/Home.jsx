@@ -7,7 +7,7 @@ export default function Home() {
   const navigate = useNavigate();
 
   const dishes = [
-    { name: "Korean Bibimbap", price: "₹499", specialty: "Spicy rice bowl with veggies", img: "/images/bibimbap.jpeg" },
+    { name: "Korean Bibimbap", price: "₹499", specialty: "Spicy rice bowl with veggies", img: "https://github.com/SuhasiniNanaware/Multi-Cusinie-Restro-Website/blob/main/public/images/bibimbap.jpeg?raw=true" },
     { name: "Japanese Sushi Platter", price: "₹899", specialty: "Assorted veggie sushi rolls", img: "public/images/sushi.jpeg" },
     { name: "Italian Pasta", price: "₹599", specialty: "Creamy Alfredo with herbs", img: "public/images/italian-pasta.jpeg" },
     { name: "Indian Thali", price: "₹449", specialty: "Complete traditional meal", img: "public/images/indian-thali.jpeg" },
